@@ -35,3 +35,19 @@ NO HTML, CSS, JS required. Pure PYTHON.
 - Widget state management
 - Input validation and constraints
 - Multiple input types for different data
+
+## Chapter 3: Layout & Advanced UI
+
+**Covered:**
+- `st.columns()` - Multi-column layout
+- `st.image()` - Display images from URLs
+- `st.sidebar` - Sidebar widgets
+- `st.expander()` - Collapsible content sections
+- `st.markdown()` - Markdown formatting support
+
+**Key Concepts:**
+- Layout control with columns
+- Context managers (`with` statement) for scoped content
+- Sidebar for persistent controls
+- External image loading
+- Markdown syntax (headers, blockquotes)
