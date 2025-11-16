@@ -17,3 +17,21 @@ NO HTML, CSS, JS required. Pure PYTHON.
 - Interactive widgets automatically trigger reruns
 - F-strings for dynamic content display
 - Simple syntax for building UI components
+
+## Chapter 2: Interactive Widgets
+
+**Covered:**
+- `st.button()` - Clickable button
+- `st.checkbox()` - Toggle checkbox
+- `st.radio()` - Radio button selection
+- `st.selectbox()` - Dropdown menu
+- `st.slider()` - Numeric slider with min/max/default
+- `st.number_input()` - Number input with step control
+- `st.text_input()` - Text input field
+- `st.date_input()` - Date picker
+
+**Key Concepts:**
+- Conditional rendering with if statements
+- Widget state management
+- Input validation and constraints
+- Multiple input types for different data
