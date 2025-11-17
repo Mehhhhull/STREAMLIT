@@ -51,3 +51,21 @@ NO HTML, CSS, JS required. Pure PYTHON.
 - Sidebar for persistent controls
 - External image loading
 - Markdown syntax (headers, blockquotes)
+
+## Chapter 4: Data Handling with Pandas
+
+**Covered:**
+- `st.file_uploader()` - File upload widget with type filtering
+- `st.dataframe()` - Interactive data table display
+- `pd.read_csv()` - Reading CSV files into pandas DataFrame
+- `df.describe()` - Statistical summary of data
+- `df["column"].unique()` - Getting unique values from column
+- DataFrame filtering with boolean indexing
+
+**Key Concepts:**
+- File upload and validation
+- Integration with pandas for data manipulation
+- Conditional data display based on file upload
+- Dynamic filtering with selectbox
+- Statistical analysis display
+- Working with CSV data in Streamlit
